@@ -1,0 +1,15 @@
+---
+title: Essai
+author: Mamadou Yauck
+date: '2019-05-13'
+slug: essai
+categories:
+  - R
+  - RStudio
+tags:
+  - R Markdown
+  - Academic
+image:
+  caption: ''
+  focal_point: ''
+---
